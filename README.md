@@ -1,2 +1,2 @@
-# front-end-works
-A repository of the various front end projects I did as my part of my learning curve using HTML5, CSS3 and JavaScript.
+# Games
+A repository of some simple games I made as part of my learning curve usingJava, JavaScript etc.
